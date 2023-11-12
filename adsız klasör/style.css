@@ -1,0 +1,36 @@
+.div1{
+    border: 1px solid orange;
+    border-radius: 10px;
+    display: inline;
+    width: 150px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 70px;
+    margin-left: 10px;
+    color: rgb(108, 70, 1);
+    font-size: 25px;
+    padding-right: 30px;
+
+}
+.div2{
+    border: 1px solid orange;
+    border-radius: 10px;
+    display: inline;
+    width: 150px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 70px;
+    margin-left: 10px;
+    color: rgb(108, 70, 1);
+    font-size: 25px;
+    padding-right: 30px;
+
+    
+
+}
+.obwi{
+    display: flex;
+    flex-wrap: wrap;
+}
